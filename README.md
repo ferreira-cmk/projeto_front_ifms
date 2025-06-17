@@ -23,3 +23,6 @@ Ele utiliza:
 
 1. Clone o repositório:
    git clone https://github.com/seu-usuario/rick-and-morty-explorer.git
+   
+## Deploy com Vercel: Acesse o projeto pelo link abaixo 
+https://projeto-front-ifms.vercel.app/
